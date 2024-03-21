@@ -1,2 +1,2 @@
 # publico
-Repositorio público actividad ETS
+Breve descripción: Repositorio público actividad ETS
